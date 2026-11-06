@@ -9,7 +9,7 @@ PR. 9 -- Pandas Analyzer & Data Visualization
 -> python
 
 
-video link :
+video link :https://drive.google.com/file/d/1oQcJE2uh-9iwDhNx2QOGCQM8C4gpAR2H/view?usp=drive_link
 
 repositories link :https://github.com/ayushjivani082/py_project.9----visualizer/tree/6c79d85774aaf39a9757951a2882cabcb649fd99/9.visualizer
 
